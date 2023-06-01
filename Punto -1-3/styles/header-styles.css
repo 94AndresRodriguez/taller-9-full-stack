@@ -39,4 +39,5 @@ header {
 .header__settings button {
     background-color: transparent;
     border: 1px solid #45486854;
+    font-size: 14px;
 }

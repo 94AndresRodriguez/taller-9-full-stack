@@ -12,6 +12,7 @@ button {
     padding: 12px 25px;
     font-family: 'Jost';
     font-weight: bold;
+    font-size: 14px;
     border-radius: 10px;
     cursor: pointer;
 }
@@ -21,6 +22,7 @@ button {
     background-color: #FD909E;
     color: #fff;
     border: none;
+    font-size: 14px;
 }
 
 p {
