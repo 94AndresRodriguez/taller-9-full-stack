@@ -9,6 +9,9 @@ Grupo 1<p>
 <h2>Punto 1: Link de figma</h2>
 <a href="https://www.figma.com/file/rcfAXrThQL81DQv7RkU2j2/Ricardo-Andres-Rodriguez-Mendez-Exercise-figma?type=design&node-id=0-1&t=cQZkDbmCK8makycp-0" target="_blank">Link de Figma</a>
 
+<br>
+<a href="https://94andresrodriguez.github.io/taller-9-full-stack/">Link pagina</a>
+
 <h2>Punto 2:HTML</h2>
 <img src="./public/images/html.png" alt="html">
 
