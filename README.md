@@ -19,4 +19,4 @@ Grupo 1<p>
 <img src="./public/images/html-css.png" alt="css">
 
 <h2>Punto 4:TITULOS</h2>
-<img src="./public/images/p4html-css.png" alt="css">
+<img src="./public/images/p-4html-css.png" alt="css">
