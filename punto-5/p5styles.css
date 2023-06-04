@@ -4,4 +4,28 @@
 
 .parte-2-texto {
     color: red;
+    font-size: 18px;
+}
+
+.parte-3-texto {
+    text-decoration: overline;
+}
+
+.palabra-grande {
+    font-size: 30px;
+}
+
+.parte-4-texto {
+    color: blue;
+    font-size: 18px;
+}
+
+.parte-5-texto {
+    color: red;
+    font-size: 18px;
+}
+
+div {
+    padding: 42px 379px 190px;
+    font-size: 16px;
 }

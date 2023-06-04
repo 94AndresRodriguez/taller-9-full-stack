@@ -20,3 +20,6 @@ Grupo 1<p>
 
 <h2>Punto 4:TITULOS</h2>
 <img src="./public/images/p-4html-css.png" alt="css">
+
+<h2>Punto 5:ESTILOS DE TEXTO</h2>
+<img src="./public/images/p-5html-css.png" alt="css">
