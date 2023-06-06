@@ -25,4 +25,4 @@ Grupo 1<p>
 <img src="./public/images/p-5html-css.png" alt="css">
 
 <h2>Punto 6:Enlaces</h2>
-<img src="./public/images/p-5html-css.png" alt="css">
+<img src="./public/images/p-6html-css.png" alt="css">
