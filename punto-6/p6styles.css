@@ -1,0 +1,18 @@
+div {
+    text-align: center;
+}
+
+.titulo {
+    color: #000000;
+    font-size: 22px;
+}
+
+.marca {
+    color: rgb(226, 226, 31);
+    font-size: 22px;
+}
+
+.AS {
+    color: rgb(151, 64, 173);
+    font-size: 22px;
+}
