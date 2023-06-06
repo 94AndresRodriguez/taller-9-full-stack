@@ -23,3 +23,6 @@ Grupo 1<p>
 
 <h2>Punto 5:ESTILOS DE TEXTO</h2>
 <img src="./public/images/p-5html-css.png" alt="css">
+
+<h2>Punto 6:Enlaces</h2>
+<img src="./public/images/p-5html-css.png" alt="css">
