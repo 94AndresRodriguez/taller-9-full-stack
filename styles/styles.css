@@ -1,7 +1,7 @@
 body {
   text-align: center;
   color: #000000b5;
-  font-family: system-ui, -apple-system;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 body, div {
@@ -49,7 +49,7 @@ p {
 a {
   padding: 12px 25px;
   color: #ffffff;
-  background-color: #fd8f54e2;
+  background-color: #09cdf0;
   border: none;
   border-radius: 5px;
   font-family: system-ui, -apple-system;
