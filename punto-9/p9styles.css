@@ -1,0 +1,31 @@
+.table-style {
+    background-color: #f3f707;
+    border: 1px dashed #e60e0e;
+    margin: 50px 300px;
+    border-top: 1px dotted #000;
+    border-left: 1px dotted #000;
+    border-right: 1px dotted #000;
+    border-collapse: collapse;
+    gap: 10px;
+    padding: -2px 0px 0px;
+    list-style: none;
+}
+
+th {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    font-size: 10px;
+    color: red;
+}
+
+.text-black {
+    color: black;
+    font-size: 14px;
+    text-decoration: none;
+    border: none;   
+}
+
+td {
+    border: 1px dotted #000;
+    font-size: 13px;   
+}

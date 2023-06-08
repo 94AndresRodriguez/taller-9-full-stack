@@ -29,3 +29,6 @@ Grupo 1<p>
 
 <h2>Punto 7-8:NAVEGACION</h2>
 <img src="./public/images/p-7-8html-css.png" alt="css">
+
+<h2>Punto 9:TABLAS</h2>
+<img src="./public/images/p-9html-css.png" alt="css">
